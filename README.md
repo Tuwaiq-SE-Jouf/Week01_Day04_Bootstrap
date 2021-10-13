@@ -4,6 +4,15 @@
 
 requirements:
 
-- Use HTML and Bootstrap to recreate the website shown in the Bootstrap_Output.pdf file.
+- Use HTML and Bootstrap to recreate the website shown in the Output.png file.
 - Don't use pure CSS to style the website
 - Bonus Have a functional navbar
+
+
+#### Output
+
+![output](Output.png)
+
+#### Bonus
+
+![bonus](Bonus.png)
